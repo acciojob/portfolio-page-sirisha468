@@ -1,2 +1,6 @@
-
-/* Your CSS Code here. */
+*{
+font-family: Arial, Helvetica, sans-serif;	
+}
+.h1{
+	color:blue;
+}
